@@ -1,5 +1,3 @@
-/// [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-
 ## Hello, my name is Dmitry 
 ## I am an DevOps engineer and I am fond of testing(Yes, that does happen)
 ## My CV
