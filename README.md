@@ -1,7 +1,7 @@
 ## Hello, my name is Dmitry 
 ## I am an DevOps engineer and I am fond of testing(Yes, that does happen)
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/1-CJrHaw1uk7L_bTjZd_P0iuNlER_BFYL/view?usp=sharing/)
 
 
 ### Language and Tools
