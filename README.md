@@ -3,7 +3,7 @@
 ## DevOps engineer
 
 - 🌱 I’m currently learning Grafana and Prometheus
-- 📄 Know about my experiences [CV HH](https://drive.google.com/file/d/17YL-VpY7ZHv4O99_tDRINZprcL6aStgq/view?usp=sharing/) and [CV English](https://drive.google.com/file/d/1-CJrHaw1uk7L_bTjZd_P0iuNlER_BFYL/view?usp=sharing/)
+- 📄 Know about my experiences [CV Russian](https://drive.google.com/file/d/17YL-VpY7ZHv4O99_tDRINZprcL6aStgq/view?usp=sharing/) and [CV English](https://drive.google.com/file/d/1aL5GwWj6lTnptiNk9iTDbK5pyvHOS_m4/view?usp=sharing/)
 - ✉️ Reach me by email: [d1918113@gmail.com](mailto:d1918113@gmail.com)
 
 ## Tools:
