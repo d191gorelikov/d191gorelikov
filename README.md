@@ -1,6 +1,10 @@
-## Hi, my name is Dmitry 
+## Hi there, I`m Dmitry
 
 ## DevOps engineer
+
+- 🌱 I’m currently learning Grafana and Prometheus
+- 📄 Know about my experiences [CV HH](https://drive.google.com/file/d/17YL-VpY7ZHv4O99_tDRINZprcL6aStgq/view?usp=sharing/) and [CV Eng](https://drive.google.com/file/d/1-CJrHaw1uk7L_bTjZd_P0iuNlER_BFYL/view?usp=sharing/)
+- ✉️ Reach me by email: [d1918113@gmail.com](d1918113@gmail.com)
 
 ## Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,9 +26,7 @@
 ![Nexus](https://img.shields.io/badge/Nexus-512BD4?style=for-the-badge&logo=sonatype&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-- 🌱 I’m currently learning Grafana and Prometheus
-- 📄 Know about my experiences [CV HH](https://drive.google.com/file/d/17YL-VpY7ZHv4O99_tDRINZprcL6aStgq/view?usp=sharing/) and [CV Eng](https://drive.google.com/file/d/1-CJrHaw1uk7L_bTjZd_P0iuNlER_BFYL/view?usp=sharing/)
-- ✉️ Reach me by email: [d1918113@gmail.com](d1918113@gmail.com)
+I am always open to new knowledge, experience and cooperation!
 
 ### contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Dimitry191)
