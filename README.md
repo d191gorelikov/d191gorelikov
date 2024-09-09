@@ -1,6 +1,9 @@
-## Hi there, I`m Dmitry
+## Hi there, I`m Dmitry - DevOps Engineer👋
 
-## DevOps engineer
+![GitHub followers](https://img.shields.io/github/followers/d191gorelikovм?style=social)
+![GitHub stars](https://img.shields.io/github/stars/d191gorelikov?style=social)
+
+## 🚀 About me
 
 - 🌱 I’m currently learning Grafana and Prometheus
 - 📄 Know about my experiences [CV Russian](https://drive.google.com/file/d/1QPoKnd1AiXTukS1o4s4HQQDVO63ISO-K/view?usp=sharing/) and [CV English](https://drive.google.com/file/d/1aL5GwWj6lTnptiNk9iTDbK5pyvHOS_m4/view?usp=sharing/)
@@ -26,8 +29,10 @@
 ![Nexus](https://img.shields.io/badge/Nexus-512BD4?style=for-the-badge&logo=sonatype&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-I am always open to new knowledge, experience and cooperation!
 
-### contacts
+
+## 📫 Contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Dimitry191)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](http://linkedin.com/in/dmitry-gorelikov-41639820b)
+
+I am always open to new knowledge, experience and cooperation!
