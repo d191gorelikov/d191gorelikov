@@ -1,6 +1,6 @@
 ## Hi there, I`m Dmitry - DevOps Engineer👋
 
-![GitHub followers](https://img.shields.io/github/followers/d191gorelikovм?style=social)
+![GitHub followers](https://img.shields.io/github/followers/d191gorelikov?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/d191gorelikov?style=social)
 
 ## 🚀 About me
