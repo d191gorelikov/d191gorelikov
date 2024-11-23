@@ -25,6 +25,10 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-512BD4?style=for-the-badge&logo=sonatype&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![PromQL](https://img.shields.io/badge/PromQL-6C4F8C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-FF6F61?style=for-the-badge&logo=prometheus&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0f4c75?style=for-the-badge&logo=helm&logoColor=white)
 
 
 
